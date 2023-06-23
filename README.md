@@ -25,4 +25,3 @@ Skills: C,C++
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=smwrhasan)  
 
-![Profile views](https://gpvc.arturio.dev/smwrhasan)  
