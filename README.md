@@ -1,27 +1,50 @@
-### Hi there 👋, Hi ,It's Hasan here!
-#### I am a student from Bangladesh.
-![I am a student from Bangladesh.](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/350129382_808818320297549_915350409684416788_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEqqqKPL_Zy4HeO1FE-0PxNukqayKjdU5e6SprIqN1Tl6rtcjcI44xHVWn_xyd8Bp1irNBgnCFdqC0HSvwrO6TP&_nc_ohc=IL3ayU6QmM8AX_uCMmz&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDnbWxQLQGjBGSwegl9Ylla-hS4qJsQV-p_S8WdpRrFew&oe=649B2C59)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm S.M. Waliur Rahman Hasan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smwrhasan&label=Profile%20views&color=0e75b6&style=flat" alt="smwrhasan" /> </p>
 
-Finished secondary education from Comilla Zilla School in 2023.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smwrhasan&theme=onedark" alt="smwrhasan" /></a> </p>
 
-Skills: C,C++
+- 🌱 I’m currently learning **Javasript**
 
-- 🌱 I’m currently learning HTML,CSS,Javascript 
-- 👯 I’m looking to collaborate on Github 
-- ⚡ Fun fact: love anime ,book reading,cricket and many more. 
+- 📫 How to reach me **s.m.w.r.hasan@gmail.com**
+- ⚡ Fun fact **Love anime,likes to read books and a bit of funny**
 
+<div> <a href="https://twitter.com/s.m.w.r.hasan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://github.com/smwrhasan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/fallen.angel.of.rebilion" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:s.m.w.r.hasan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codesandbox.com/spell_master" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="spell_master" height="30" width="40" /></a><a href="https://twitter.com/s.m.w.r.hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="s.m.w.r.hasan" height="30" width="40" /></a><a href="https://fb.com/S. M. Hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="S. M. Hasan" height="30" width="40" /></a><a href="https://instagram.com/fallen.angel.of.rebilion" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="fallen.angel.of.rebilion" height="30" width="40" /></a></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smwrhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100038911457135)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s.m.w.r.hasan/)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smwrhasan)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smwrhasan&layout=compact&theme=dark" alt=smwrhasan />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smwrhasan)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=smwrhasan&show_icons=true&locale=en&theme=" alt="smwrhasan" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smwrhasan&show_icons=true)  
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=smwrhasan&theme=dark" alt="smwrhasan" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smwrhasan)  
-
-![GitHub metrics](https://metrics.lecoq.io/smwrhasan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=smwrhasan)  
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/smwrhasan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smwrhasan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smwrhasan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smwrhasan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smwrhasan&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smwrhasan&theme=algolia" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=smwrhasan&theme=github"/>
